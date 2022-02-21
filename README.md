@@ -3,7 +3,7 @@
 <h2>Hi there 👋🏾! I'm Imani, welcome to my GitHub!</h2>
 <br>
 <p>
-  <img width="300" height="300" frameBorder="0" class="giphy-embed" src="https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif"
+  <img width="100" height="100" frameBorder="0" class="giphy-embed" src="https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif"
 </p>
 <br>  
 <h3>✨ About Me <h5>
