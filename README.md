@@ -6,11 +6,11 @@
   <img width="100" height="100" frameBorder="0" class="giphy-embed" src="https://media.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif"
 </p>
 <br>  
-<h2>✨ About Me <h2>
-  <h4>Full-stack Software Engineer passionate about learning.</h4>
-  <h4> 💻 I'm currently working on a PERN ecommerce website for a naturalistic candle company</h4>
+<h2>✨ About Me </h2>
+ <h4>Full-stack Software Engineer passionate about learning.</h4>
+ <h4> 💻 I'm currently working on a PERN ecommerce website for a naturalistic candle company</h4>
   <!-- <h4> 🌱 I’m currently strengthening my Java</h4> -->
-  <h4> ⚡ Fun fact: I'm a foodie! I love trying new restaurants or either cooking new recipes from Pinterest!</h4>
+ <h4> ⚡ Fun fact: I'm a foodie! I love trying new restaurants or either cooking new recipes from Pinterest!</h4>
 <br>
  <h2>🛠️ Tech Stack</h2>
     <h3>Front End:</h3>
